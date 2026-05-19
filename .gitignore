@@ -1,0 +1,9 @@
+/_ReSharper.Caches/
+/.idea/
+/.claude/
+bin/
+obj/
+
+*.md
+*.tsv
+*.user
